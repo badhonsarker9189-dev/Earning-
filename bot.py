@@ -167,7 +167,9 @@ async def withdraw(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "💸 Withdraw Request\n\n"
         "Send like this:\n"
         "Amount | Method | Number\n\n"
-        "Example:\n50 | bKash | 01XXXXXXXXX"
+        "Example:\n500 | bKash | 01XXXXXXXXX
+Example:\n500 | Nagad | 01XXXXXXXXX
+"
     )
 
 async def withdraw_msg(update: Update, context: ContextTypes.DEFAULT_TYPE):
