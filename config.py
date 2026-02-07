@@ -1,0 +1,2 @@
+Bot token=8314562457:AAF0NC9hBtsYzghhbk-nantTOmvgUX6h_jc
+Admin id=6491952214
